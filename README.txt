@@ -1,0 +1,1 @@
+This program lets User solve the hypotenuse of a right triangle by using either two sides or one side and an angle.
